@@ -1,0 +1,17 @@
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\bin\Debug\Steganography.exe.config
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\bin\Debug\Steganography.exe
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\bin\Debug\Steganography.pdb
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.exe
+D:\ВУЗ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.pdb
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\bin\Debug\Steganography.exe.config
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.exe
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.pdb
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\bin\Debug\Steganography.exe
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\bin\Debug\Steganography.pdb
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+D:\VUZ\Основы_криптографических_методов\4laba\sourcecode\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
